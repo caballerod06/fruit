@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	// test push
+	// test
 	std::cout << "I am test!!" << std::endl;
 
 	return 0;
