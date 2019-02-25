@@ -9,21 +9,10 @@ int main(void)
     int y;
     int z;
 
-    if (1)
+    if (x)
     {
     }
-    else
-    {
-    }
-
-    if (0)
-    {
-    }
-    else
-    {
-    }
-
-    if (1)
+    else if (y)
     {
     }
     else
