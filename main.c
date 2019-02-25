@@ -2,5 +2,6 @@
 
 int main(void)
 {
+    int ** pp;
     return 0;
 }
