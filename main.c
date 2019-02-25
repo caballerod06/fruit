@@ -5,7 +5,8 @@ int main(void)
     int ** pp;
     int * p;
     int *** p;
-	int x;
+    int x;
+    int y;
 
     if (1)
     {
