@@ -1,14 +1,11 @@
 #include <stdio.h>
 
-int main(void)
+int
+main(void)
 {
-    int * p;
-    if (p)
-    {
-    }
-    else
-    {
-    }
-
+int x;
+if(x)           {
+            printf("TEST");
+}else{}
     return 0;
 }
