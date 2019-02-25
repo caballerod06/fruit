@@ -4,6 +4,13 @@ int main(void)
 {
     int ** pp;
     int * p;
-    int ***p;
+    int *** p;
+    if (1)
+    {
+    }
+    else
+    {
+    }
+
     return 0;
 }
