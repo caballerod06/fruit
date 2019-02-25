@@ -7,6 +7,7 @@ int main(void)
     int *** p;
     int x;
     int y;
+    int z;
 
     if (1)
     {
