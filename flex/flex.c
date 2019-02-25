@@ -5,5 +5,9 @@ int flex(void)
 {
     if(1){}
     else{}
-    return (0);
+
+    if(0){}
+    else{}
+
+    return(0);
 }
