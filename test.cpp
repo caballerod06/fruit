@@ -2,8 +2,10 @@
 
 int main(void)
 {
-	// test
-	std::cout << "I am test!!" << std::endl;
+    // test
+    int ** pp;
+    int * p;
+    std::cout << "I am test!!" << std::endl;
 
-	return 0;
+    return 0;
 }
