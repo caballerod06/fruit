@@ -9,8 +9,14 @@ int main(void)
     int **** pppp;
     std::cout << "I am test!!" << std::endl;
 
+    if (1)
+    {
+    }
+    else
+    {
+    }
+
     if(1){}
     else{}
-
     return 0;
 }
