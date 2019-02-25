@@ -16,7 +16,13 @@ int main(void)
     {
     }
 
-    if(1){}
-    else{}
+    if (1)
+    {
+    }
+    else
+    {
+    }
+
+    // this is a comment
     return 0;
 }
