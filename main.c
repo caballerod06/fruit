@@ -1,10 +1,12 @@
 #include <stdio.h>
 
+int test(int * p)
+{
+    return 0;
+}
+
 int main(void)
 {
-    int ** pp;
-    int * p;
-    int *** p;
     int x;
     int y;
     int z;
