@@ -2,17 +2,8 @@
 
 int main(void)
 {
-    int ** pp;
-    int * p;
-    int *** p;
-    if (1)
-    {
-    }
-    else
-    {
-    }
-
-    if (0)
+    int x;
+    if (x)
     {
     }
     else
