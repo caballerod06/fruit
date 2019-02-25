@@ -11,8 +11,19 @@ int main(void)
     {
     }
 
-    if(1){}
-    else{}
+    if (1)
+    {
+    }
+    else
+    {
+    }
+
+    if (0)
+    {
+    }
+    else
+    {
+    }
 
     return 0;
 }
