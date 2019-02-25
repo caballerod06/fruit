@@ -5,6 +5,8 @@ int main(void)
     int ** pp;
     int * p;
     int *** p;
+	int x;
+
     if (1)
     {
     }
