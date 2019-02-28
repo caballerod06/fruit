@@ -12,5 +12,6 @@ int n(int * pp)
     /// Before Stage ////
     //
     // After Stage
+    // /////
     return 0;
 }
