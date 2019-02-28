@@ -2,6 +2,13 @@
 
 int main(void)
 {
+    int * p;
+    if (p)
+    {
+    }
+    else
+    {
+    }
 
     return 0;
 }
